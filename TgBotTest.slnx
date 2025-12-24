@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="TgBotTest.Api/TgBotTest.Api.csproj" />
+    <Project Path="TgBotTest.Application/TgBotTest.Application.csproj" />
+    <Project Path="TgBotTest.Domain/TgBotTest.Domain.csproj" />
+    <Project Path="TgBotTest.Infrastructure/TgBotTest.Infrastructure.csproj" />
+  </Folder>
+</Solution>
